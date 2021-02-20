@@ -1,0 +1,25 @@
+{
+  "name": "JabroniWebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.7",
+    "next-images": "^1.7.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^5.0.2",
+    "file-loader": "^6.2.0",
+    "url-loader": "^4.1.1"
+  }
+}

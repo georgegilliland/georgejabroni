@@ -1,0 +1,13 @@
+#outerimagecontainer {
+    max-width: 500px;
+    width: 55vw;
+    min-width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imagecontainer {
+    width: 90%;
+    height: 90%;
+}

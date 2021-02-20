@@ -1,0 +1,49 @@
+.titleposition:nth-child(2) {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    margin-top: -6%;
+    margin-left: 5%;
+}
+
+.titleposition:nth-child(3) {
+    position: absolute;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    left: 49%;
+    width: 100%;
+    margin-top: -20%
+}
+
+.titleposition:nth-child(4) {
+    position: absolute;
+    right: 0px;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+    bottom: 0px;
+    margin-bottom: -6%;
+    margin-right: 5%;
+}
+
+.titleposition:nth-child(5) {
+    position: absolute;
+    left: -49%;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    width: 100%;
+    margin-bottom: -20%
+}
+
+.titleposition a {
+    color: #000000;
+    text-decoration: none;
+}

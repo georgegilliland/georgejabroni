@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport React, { useState, useEffect } from 'react';\nimport styles from './cursor.module.css';\n\nconst Cursor = ({\n  position\n}) => {\n  return /*#__PURE__*/_jsx(\"div\", {\n    id: styles.cursor,\n    style: position\n  });\n};\n\nexport default Cursor;","map":null,"metadata":{},"sourceType":"module"}
