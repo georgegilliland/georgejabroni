@@ -16,5 +16,3 @@ const Image = () => {
 };
 
 export default Image;
-/*            <img id={style.image-container} src={ImageOfMe} /> 
- */
