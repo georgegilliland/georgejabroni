@@ -15,4 +15,7 @@
     #cursor {
         display: none;
     }
+    body {
+        cursor: pointer;
+    }
 }
